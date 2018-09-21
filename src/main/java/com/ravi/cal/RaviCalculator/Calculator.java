@@ -32,7 +32,7 @@ public class Calculator  {
 	// Implement Substraction Functionality  --> Assigned to Chary
 	public long subFunc(long first, long second){
                       return second-first;
-	
+	}
 	
 	// Implement Multiplication Functionality  --> Assigned to Ahmed
            
