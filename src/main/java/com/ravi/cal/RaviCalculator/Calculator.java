@@ -25,7 +25,9 @@ public class Calculator  {
 
 	// Implement Addition Functionality  --> Assigned to Prakash
 	
-	
+            public long addFunc(long first, long second){
+                      return first+second;
+         }	
 	
 	// Implement Substraction Functionality  --> Assigned to Chary
 	
