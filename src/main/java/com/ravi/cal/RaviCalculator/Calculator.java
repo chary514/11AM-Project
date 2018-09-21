@@ -23,7 +23,18 @@ public class Calculator  {
 		this.second = second;
 	}
 
+	// Implement Addition Functionality  --> Assigned to Prakash
 	
+	
+	
+	// Implement Substraction Functionality  --> Assigned to Chary
+	
+	
+	
+	// Implement Multiplication Functionality  --> Assigned to Ahmed
+
+
+
 	
 	public static void main(String[] args) {
 		
