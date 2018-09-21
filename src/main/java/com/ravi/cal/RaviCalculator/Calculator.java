@@ -23,10 +23,10 @@ public class Calculator  {
 		this.second = second;
 	}
 
-	// Implement Additional Functionality  --> Assigned to Prakash
+	// Editing Additional Functionality  --> Assigned to Prakash
 	
             public long addFunc(long first, long second){
-                      return first+second;
+                    return first + second;
          }	
 	
 	// Implement Substractional Functionality  --> Assigned to Chary
@@ -37,7 +37,7 @@ public class Calculator  {
 	// Implement Multiplicational Functionality  --> Assigned to Ahmed
            
            public long mulFunc(long first, long second){
-                return second*first;
+                return second * first;
          }
 
 
