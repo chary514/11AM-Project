@@ -36,8 +36,8 @@ public class Calculator  {
 	
 	// Implement Multiplication Functionality  --> Assigned to Ahmed
            
-           public long subFunc(long first, long second){
-                return second-first;
+           public long mulFunc(long first, long second){
+                return second*first;
          }
 
 
